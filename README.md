@@ -1,4 +1,4 @@
-#  infotrixs 
+# INFOTRIXS 
 
 # 🌦️ Weather App 
 
