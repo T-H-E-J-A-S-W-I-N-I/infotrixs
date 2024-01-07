@@ -1,6 +1,6 @@
 # INFOTRIXS 
 
-Click to visit website: https://t-h-e-j-a-s-w-i-n-i.github.io/infotrixs/
+
 # 🌦️ Weather App 
 
 Welcome to the Weather App! This web application allows users to check the current weather and hourly forecast for a given city.
