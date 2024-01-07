@@ -1,5 +1,6 @@
 # INFOTRIXS 
 
+
 # 🌦️ Weather App 
 
 Welcome to the Weather App! This web application allows users to check the current weather and hourly forecast for a given city.
@@ -16,8 +17,6 @@ Welcome to the Weather App! This web application allows users to check the curre
 - [API Key](#api-key)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Abstract
@@ -49,8 +48,11 @@ The Weather App is a responsive and visually appealing web application that prov
 ## Usage
 
 1.Open the Weather App in your web browser 🌐.
-2.Enter the desired city in the search box.
-3.Click the "Search" button to fetch and display the weather information.
+
+2.Enter the desired city📍 in the search box🔍.
+
+3.Click the "Search" button to fetch and display the weather information🌦️.
+
 4.Explore the current weather, hourly forecast, and additional details.
 
 # Prerequisites
