@@ -21,7 +21,7 @@ Welcome to the Weather App! This web application allows users to check the curre
 
 ## Abstract
 
- 🌐 The Weather App is a visually stunning web application providing real-time weather updates for any city. Featuring a dynamic background video that changes with the weather, it offers current conditions, hourly forecasts, and additional details like UV index and wind speed. With an intuitive interface, it's the perfect tool for planning your day. 🌦️📆 #WeatherApp #RealTimeForecast #IntuitiveDesign
+The Weather App🌦️  is your stylish companion for real-time weather updates. Immerse yourself in the forecast with a dynamic video background, while intuitive icons provide at-a-glance information. Whether it's ☀️, 🌧️, or ❄️, this app seamlessly blends functionality and aesthetics, making checking the weather a delightful experience! 🚀 #WeatherApp #UserFriendly #WeatherForecast
  
 
 ## Introduction
