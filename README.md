@@ -1,4 +1,4 @@
-##  infotrixs 
+#  infotrixs 
 
 # 🌦️ Weather App 
 
@@ -44,16 +44,16 @@ The Weather App is a responsive and visually appealing web application that prov
 - **OpenWeatherMap API:** Retrieves real-time weather data.
 - **Git & GitHub:** Enables version control and collaboration.
 
-## Getting Started
+# Getting Started
 
-# Usage
+## Usage
 
 1.Open the Weather App in your web browser 🌐.
 2.Enter the desired city in the search box.
 3.Click the "Search" button to fetch and display the weather information.
 4.Explore the current weather, hourly forecast, and additional details.
 
-### Prerequisites
+# Prerequisites
 
 ## Ensure you have the following tools installed:
 
@@ -68,7 +68,7 @@ To use the OpenWeatherMap API, obtain an API key:
 2.Once logged in, navigate to the "API keys" section.
 
 3.Copy your API key and replace the placeholder in script.js with your key.
-                const apiKey = 'your-api-key';
+                [const apiKey = 'your-api-key';]
 
 ## Customization
 Feel free to customize the Weather App to suit your preferences:
