@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <video autoplay muted loop id="myVideo">
+        <source src="C:\Users\Admin\Downloads\Blue_Sky_and_Clouds_Timelapse_0892_Videvo_preview (1) (online-video-cutter.com).mp4".type="video/mp4">
+      </video>
+    <div id="weather-container">
+        <h2>Weather App</h2>
+        <div class="Search-box">
+           <i class='bx bxs-map'></i>
+           <input type="text" id="city" placeholder="Enter city">
+           <button onclick="getWeather()">Search</button>
+        </div>
+        <div class="weather-card">  
+         <img id="weather-icon" alt="Weather Icon">
+
+         <div id="temp-div"></div>
+
+         <div id="weather-info"></div>
+
+         <div id="hourly-forecast"></div>
+
+         <div id="weather-description"></div>
+         <div id="uvIndex" class="info-container hidden"> <i class='bx bxs-sun'></i></div>
+         <div id="Feels like" class="info-container hidden"></div>
+         <div id="humidity" class="info-container hidden"><i class='bx bx-water'></i></div>
+         <div id="wind" class="info-container hidden"><i class='bx bx-wind' ></i></div>
+        </div>
+         <div id="date"></div>
+        
+        <!-- Placeholder for calendar images with circled today's date -->
+        <div id="calendar-container"> 
+       </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
